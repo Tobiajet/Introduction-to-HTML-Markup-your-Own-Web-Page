@@ -1,0 +1,66 @@
+body {
+ /* for the main element selector */
+text-align: center;
+}
+
+header {
+    background-color: #e4572e;
+    
+}
+header h2 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+h2 {
+    
+    font-family: 'Gamja Flower', cursive;
+    
+}
+
+main {
+    font-family: 'Gamja Flower', cursive;
+    background-color: #fffff2;
+}
+
+article{
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    margin-bottom: 10px;
+    width: 40rem;
+    margin-left: auto;
+    text-align: left;
+    right: 25rem;
+    margin-right: auto;
+}
+
+article p {
+    word-break: break-all;
+    
+}
+
+img {
+    float: right;
+}
+
+.form-bottom {
+    box-shadow: 3px 3px 0 0 #e4572e;
+    float: left;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    right: -40rem;
+}
+
+.mail {
+    font-family: 'Gamja Flower', cursive;
+}
+
+.sanni {
+    font-family: 'Gamja Flower', cursive;
+    margin-top: 40px;
+}
